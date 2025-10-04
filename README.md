@@ -1,6 +1,6 @@
-## Olá, eu sou Miriã Correia
+## Olá, eu sou Miriã Correia, Aspirante na área da TI!
 
-Aspirante, em transição de carreira do **Departamento Pessoal (RH)** para **TI**.  
+Em transição de carreira do **Departamento Pessoal (RH)** para **TECH**.  
 
 🔭 Atualmente estou trabalhando em projetos práticos para consolidar meus estudos.  
 - 🤝 Buscando colaborar em projetos **open-source** para iniciantes.  
