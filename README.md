@@ -5,7 +5,7 @@ Em transição de carreira do **Departamento Pessoal (RH)** para **TECH**.
 🔭 Atualmente estou trabalhando em projetos práticos para consolidar meus estudos.  
 - 🤝 Buscando colaborar em projetos **open-source** para iniciantes.  
 - 💡 Interesses: Desenvolvimento Web | Automação de processos | Dados.  
-- 📈 Objetivo: Tornar-me **Desenvolvedora Júnior** em até 12 meses.
+- 📈 Objetivo: Ingressar na área em até 12 meses.
 
   <div> 
   <a href="https://www.instagram.com/miiriacorreia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
