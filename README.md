@@ -1,4 +1,4 @@
-## Olá, eu sou Miriã Correia, Aspirante na área da TI!
+## Olá, eu sou Miriã , aspirante na área da TI!
 
 Em transição de carreira do **Departamento Pessoal (RH)** para **TECH**.  
 
