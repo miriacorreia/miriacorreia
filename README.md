@@ -2,10 +2,10 @@
 
 Em transição de carreira do RH para **TECH**.  
 
-🔭 Atualmente estou trabalhando em projetos práticos para consolidar meus estudos.  
-- 🤝 Buscando colaborar em projetos **open-source** para iniciantes.  
-- 💡 Interesses: Desenvolvimento Web | Automação de processos | Dados.  
-- 📈 Objetivo: Ingressar na área em até 12 meses.
+Atualmente estou trabalhando em projetos práticos para consolidar meus estudos.  
+- Buscando colaborar em projetos **open-source** para iniciantes.  
+- Interesses: Desenvolvimento Web | Automação de processos | Dados.  
+- Objetivo: Ingressar na área em até 12 meses.
 
   
 </div>
