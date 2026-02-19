@@ -4,13 +4,12 @@ Em transição de carreira do RH para **TECH**.
 
 Atualmente estou trabalhando em projetos práticos para consolidar meus estudos.  
 - Buscando colaborar em projetos **open-source** para iniciantes.  
-- Interesses: Desenvolvimento Web | Automação de processos | Dados.  
+- Interesses: Ciberssegurança | Desenvolvimento Web | Automação de processos | Dados.  
 - Objetivo: Ingressar na área em até 12 meses.
 
   
 </div>
 
-<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=miriacorreia&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
