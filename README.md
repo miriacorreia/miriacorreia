@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (1º semestre), em transiç�
 
 Tenho direcionado meus estudos para Cibersegurança, Desenvolvimento Web, Automação e Dados, desenvolvendo projetos práticos para consolidar meus conhecimentos. Busco uma oportunidade de estágio em tecnologia para aplicar conhecimento e acelerar minha aprendizagem.
 
-📍 São Paulo – SP
+📍 São Paulo 
 
 🎓 Formação prevista: 07/2028
 
